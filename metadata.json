@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Smart Spend",
+  "description": "An intelligent personal expense tracker powered by Gemini AI. Track spending manually, via natural language, or by scanning receipts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
